@@ -1,0 +1,5 @@
+{
+  "name": "SwiftTicket",
+  "description": "A modern ticket booking application with AI-powered assistance and secure Firebase integration.",
+  "requestFramePermissions": []
+}

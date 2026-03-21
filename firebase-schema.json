@@ -1,0 +1,67 @@
+{
+  "entities": {
+    "User": {
+      "title": "User Profile",
+      "description": "User profile information",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string", "description": "Unique user ID" },
+        "email": { "type": "string", "format": "email", "description": "User email" },
+        "displayName": { "type": "string", "description": "User display name" },
+        "photoURL": { "type": "string", "format": "uri", "description": "User photo URL" },
+        "role": { "type": "string", "enum": ["admin", "user"], "description": "User role" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Account creation timestamp" }
+      },
+      "required": ["uid", "email", "role"]
+    },
+    "Ticket": {
+      "title": "Ticket",
+      "description": "A booking ticket",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "description": "Ticket ID" },
+        "userId": { "type": "string", "description": "Owner user ID" },
+        "title": { "type": "string", "description": "Ticket title/event name" },
+        "description": { "type": "string", "description": "Ticket description" },
+        "date": { "type": "string", "format": "date-time", "description": "Event date" },
+        "venue": { "type": "string", "description": "Event venue" },
+        "price": { "type": "number", "description": "Ticket price" },
+        "status": { "type": "string", "enum": ["active", "cancelled", "completed"], "description": "Ticket status" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Booking timestamp" },
+        "qrCode": { "type": "string", "description": "Mock QR code data" }
+      },
+      "required": ["userId", "title", "date", "venue", "price", "status"]
+    },
+    "LiveEvent": {
+      "title": "Live Event",
+      "description": "A featured or live event for recommendations",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "description": "Event ID" },
+        "title": { "type": "string", "description": "Event title" },
+        "description": { "type": "string", "description": "Event description" },
+        "category": { "type": "string", "enum": ["movie", "concert", "sports", "theater"], "description": "Event category" },
+        "imageUrl": { "type": "string", "format": "uri", "description": "Event image URL" },
+        "date": { "type": "string", "format": "date-time", "description": "Event date" },
+        "venue": { "type": "string", "description": "Event venue" },
+        "price": { "type": "number", "description": "Base price" },
+        "isLive": { "type": "boolean", "description": "Whether the event is currently live" }
+      },
+      "required": ["title", "category", "imageUrl", "date", "venue", "price"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User profile collection"
+    },
+    "/tickets/{ticketId}": {
+      "schema": "Ticket",
+      "description": "Tickets collection"
+    },
+    "/live_events/{eventId}": {
+      "schema": "LiveEvent",
+      "description": "Featured events for recommendations"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // ===============================================================
+    // Assumed Data Model
+    // ===============================================================
+    //
+    // Collection: users
+    // Document ID: {userId}
+    // Fields:
+    //   - uid: string (required, immutable) - Unique user ID
+    //   - email: string (required, immutable) - User email
+    //   - displayName: string (optional) - User display name
+    //   - photoURL: string (optional) - User photo URL
+    //   - role: string (required, enum: ['admin', 'user']) - User role
+    //   - createdAt: timestamp (optional, immutable) - Account creation timestamp
+    //
+    // Collection: tickets
+    // Document ID: {ticketId}
+    // Fields:
+    //   - userId: string (required, immutable) - Owner user ID
+    //   - title: string (required, max: 100) - Ticket title
+    //   - description: string (optional, max: 500) - Ticket description
+    //   - date: timestamp (required) - Event date
+    //   - venue: string (required, max: 100) - Event venue
+    //   - price: number (required, min: 0) - Ticket price
+    //   - status: string (required, enum: ['active', 'cancelled', 'completed']) - Ticket status
+    //   - createdAt: timestamp (required, immutable) - Booking timestamp
+    //   - qrCode: string (optional) - Mock QR code data
+    //
+    // Collection: live_events
+    // Document ID: {eventId}
+    // Fields:
+    //   - title: string (required, max: 100) - Event title
+    //   - description: string (optional, max: 500) - Event description
+    //   - category: string (required, enum: ['movie', 'concert', 'sports', 'theater']) - Event category
+    //   - imageUrl: string (required, url) - Event image URL
+    //   - date: timestamp (required) - Event date
+    //   - venue: string (required, max: 100) - Event venue
+    //   - price: number (required, min: 0) - Base price
+    //   - isLive: bool (optional) - Whether the event is currently live
+    //
+    // ===============================================================
+
+    // ===============================================================
+    // Helper Functions
+    // ===============================================================
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    function isAdmin() {
+      return isAuthenticated() &&
+        (get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin' ||
+         (request.auth.token.email == "ranjithvasu499@gmail.com" && request.auth.token.email_verified == true));
+    }
+
+    function hasRequiredFields(fields) {
+      return request.resource.data.keys().hasAll(fields);
+    }
+
+    function hasOnlyAllowedFields(fields) {
+      return request.resource.data.keys().hasOnly(fields);
+    }
+
+    function isValidEmail(email) {
+      return email is string && email.matches("^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$");
+    }
+
+    // ===============================================================
+    // Domain Validators
+    // ===============================================================
+
+    function isValidUser(data) {
+      return hasRequiredFields(['uid', 'email', 'role']) &&
+             hasOnlyAllowedFields(['uid', 'email', 'displayName', 'photoURL', 'role', 'createdAt']) &&
+             data.uid == request.auth.uid &&
+             isValidEmail(data.email) &&
+             data.role in ['admin', 'user'];
+    }
+
+    function isValidTicket(data) {
+      return hasRequiredFields(['userId', 'title', 'date', 'venue', 'price', 'status', 'createdAt']) &&
+             hasOnlyAllowedFields(['userId', 'title', 'description', 'date', 'venue', 'price', 'status', 'createdAt', 'qrCode']) &&
+             data.userId == request.auth.uid &&
+             data.title is string && data.title.size() <= 100 &&
+             (!('description' in data) || (data.description is string && data.description.size() <= 500)) &&
+             data.date is timestamp &&
+             data.venue is string && data.venue.size() <= 100 &&
+             data.price is number && data.price >= 0 &&
+             data.status in ['active', 'cancelled', 'completed'] &&
+             data.createdAt is timestamp &&
+             (!('qrCode' in data) || (data.qrCode is string && data.qrCode.size() <= 1000));
+    }
+
+    function isValidLiveEvent(data) {
+      return hasRequiredFields(['title', 'category', 'imageUrl', 'date', 'venue', 'price']) &&
+             hasOnlyAllowedFields(['title', 'description', 'category', 'imageUrl', 'date', 'venue', 'price', 'isLive']) &&
+             data.title is string && data.title.size() <= 100 &&
+             data.category in ['movie', 'concert', 'sports', 'theater'] &&
+             isValidUrl(data.imageUrl) &&
+             data.date is timestamp &&
+             data.venue is string && data.venue.size() <= 100 &&
+             data.price is number && data.price >= 0;
+    }
+
+    // ===============================================================
+    // Rules
+    // ===============================================================
+
+    match /users/{userId} {
+      allow read: if isOwner(userId) || isAdmin();
+      allow create: if isOwner(userId) && isValidUser(request.resource.data) && (request.resource.data.role == 'user' || isAdmin());
+      allow update: if isOwner(userId) && isValidUser(request.resource.data) && (request.resource.data.role == resource.data.role || isAdmin());
+    }
+
+    match /tickets/{ticketId} {
+      allow read: if isAuthenticated() && (resource.data.userId == request.auth.uid || isAdmin());
+      allow create: if isAuthenticated() && isValidTicket(request.resource.data);
+      allow update: if isAuthenticated() && (resource.data.userId == request.auth.uid || isAdmin()) && 
+                    isValidTicket(request.resource.data) &&
+                    request.resource.data.userId == resource.data.userId &&
+                    request.resource.data.createdAt == resource.data.createdAt;
+      allow delete: if isAuthenticated() && (resource.data.userId == request.auth.uid || isAdmin());
+    }
+
+    match /live_events/{eventId} {
+      allow read: if true; // Publicly readable for recommendations
+      allow create, update, delete: if isAdmin();
+    }
+  }
+}

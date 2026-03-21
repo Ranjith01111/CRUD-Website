@@ -1,0 +1,1820 @@
+{
+  "headerData": [
+    {
+      "title": "Courses",
+      "children": [
+        {
+          "title": "DSA / Placements",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/courses/category/dsa-placements"
+        },
+        {
+          "title": "GATE Prep",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/courses/category/gate/"
+        },
+        {
+          "title": "Data Analytics / Data Science",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/courses/category/data-analytics-data-science"
+        },
+        {
+          "title": "Development",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/courses/category/development-testing"
+        },
+        {
+          "title": "Cloud / DevOps",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/courses/category/cloud-devops"
+        },
+        {
+          "title": "Programming Languages",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/courses/category/programming-languages"
+        },
+        {
+          "title": "All Courses",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/courses"
+        }
+      ],
+      "link": "https://practice.geeksforgeeks.org/courses/?ref=ghm"
+    },
+    {
+      "title": "Tutorials",
+      "children": [
+        {
+          "title": "Python",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/python/python-programming-language-tutorial/"
+        },
+        {
+          "title": "Java",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/java/java/"
+        },
+        {
+          "title": "DSA",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/"
+        },
+        {
+          "title": "ML & Data Science",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/ai-ml-and-data-science-tutorial-learn-ai-ml-and-data-science/"
+        },
+        {
+          "title": "Interview Corner",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/interview-corner/"
+        },
+        {
+          "title": "Programming Languages",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/programming-language-tutorials/"
+        },
+        {
+          "title": "Web Development",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/web-technology/"
+        },
+        {
+          "title": "GATE",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/gate-exam-tutorial/"
+        },
+        {
+          "title": "CS Subjects",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/articles-on-computer-science-subjects-gq/"
+        },
+        {
+          "title": "DevOps",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/devops/devops-tutorial/"
+        },
+        {
+          "title": "School Learning",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/geeksforgeeks-school/"
+        },
+        {
+          "title": "Software and Tools",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/websites-apps/software-and-tools-a-to-z-list/"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "title": "Practice",
+      "children": [
+        {
+          "title": "Practice Coding Problems",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/geeksforgeeks-practice-best-online-coding-platform/"
+        },
+        {
+          "title": "Problem of the Day",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/problem-of-the-day"
+        },
+        {
+          "title": "Explore Connect",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/connect/home"
+        },
+        {
+          "title": "StudyIn Scholarship 2026",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/studyin-go-global-challenge-2025"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "title": "Jobs",
+      "children": [
+        {
+          "title": "Apply Now!",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/jobs"
+        },
+        {
+          "title": "Post Jobs",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/gfg-hiring-solutions-for-recruiters/"
+        },
+        {
+          "title": "Jobs Updates",
+          "children": [],
+          "link": "https://www.geeksforgeeks.org/community/profile/hire1/"
+        }
+      ],
+      "link": "https://www.geeksforgeeks.org/jobs?utm_source=gfg&utm_medium=gfg_header&utm_campaign=gfgcontest_header"
+    }
+  ],
+  "footerData": {
+    "email": "feedback@geeksforgeeks.org",
+    "address": "A-143, 7th Floor, Sovereign Corporate Tower, Sector- 136, Noida, Uttar Pradesh (201305)",
+    "registered_address": "K 061, Tower K, Gulshan Vivante Apartment, Sector 137, Noida, Gautam Buddh Nagar, Uttar Pradesh, 201305",
+    "footer": [
+      {
+        "title": "Company",
+        "children": [
+          {
+            "title": "About Us",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/about/"
+          },
+          {
+            "title": "Legal",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/legal/"
+          },
+          {
+            "title": "Privacy Policy",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/legal/privacy-policy/"
+          },
+          {
+            "title": "Careers",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/jobs?search=geeksforgeeks&tab_type=featured"
+          },
+          {
+            "title": "Contact Us",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/about/contact-us/"
+          },
+          {
+            "title": "Corporate Solution",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/gfg-corporate-solution/"
+          },
+          {
+            "title": "Campus Training Program",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/campus-training-program/"
+          }
+        ],
+        "link": ""
+      },
+      {
+        "title": "Explore",
+        "children": [
+          {
+            "title": "POTD",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/problem-of-the-day"
+          },
+          {
+            "title": "Practice Problems",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions"
+          },
+          {
+            "title": "Connect",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/connect/home"
+          },
+          {
+            "title": "Blogs",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/category/blogs/?type=recent"
+          },
+          {
+            "title": "Upskill Courses",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses"
+          }
+        ],
+        "link": ""
+      },
+      {
+        "title": "Tutorials",
+        "children": [
+          {
+            "title": "Programming Languages",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/computer-science-fundamentals/programming-language-tutorials/"
+          },
+          {
+            "title": "DSA",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/"
+          },
+          {
+            "title": "Web Technology",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/web-tech/web-technology/"
+          },
+          {
+            "title": "AI, ML & Data Science",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/machine-learning/ai-ml-and-data-science-tutorial-learn-ai-ml-and-data-science/"
+          },
+          {
+            "title": "DevOps",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/devops/devops-tutorial/"
+          },
+          {
+            "title": "CS Core Subjects",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/gate/gate-exam-tutorial/"
+          },
+          {
+            "title": "GATE",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/gate/gate-exam-tutorial/"
+          },
+          {
+            "title": "School Subjects",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/gfg-academy/geeksforgeeks-school/"
+          },
+          {
+            "title": "Software and Tools",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/websites-apps/software-and-tools-a-to-z-list/"
+          }
+        ],
+        "link": ""
+      },
+      {
+        "title": "Courses",
+        "children": [
+          {
+            "title": "ML and Data Science",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/category/machine-learning-data-science"
+          },
+          {
+            "title": "DSA and Placements",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/category/dsa-placements"
+          },
+          {
+            "title": "Web Development",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/category/development-testing"
+          },
+          {
+            "title": "Data Science",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/category/machine-learning-data-science"
+          },
+          {
+            "title": "Programming Languages",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/category/programming-languages"
+          },
+          {
+            "title": "DevOps & Cloud",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/category/cloud-devops"
+          },
+          {
+            "title": "GATE",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/category/gate"
+          },
+          {
+            "title": "Trending Technologies",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/category/trending-technologies/"
+          }
+        ],
+        "link": ""
+      },
+      {
+        "title": "Offline Centers",
+        "children": [
+          {
+            "title": "Noida",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/offline-courses?city=noida"
+          },
+          {
+            "title": "Bengaluru",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/offline-courses?city=bengaluru"
+          },
+          {
+            "title": "Pune",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/offline-courses?city=pune"
+          },
+          {
+            "title": "Hyderabad",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/offline-courses?city=hyderabad"
+          },
+          {
+            "title": "Kolkata",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/offline-courses?selectedOfflineCity=Kolkata"
+          }
+        ],
+        "link": ""
+      },
+      {
+        "title": "Preparation Corner",
+        "children": [
+          {
+            "title": "Interview Corner",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/interview-prep/interview-corner/"
+          },
+          {
+            "title": "Aptitude",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/aptitude/aptitude-questions-and-answers/"
+          },
+          {
+            "title": "Puzzles",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/aptitude/puzzles/"
+          },
+          {
+            "title": "GfG 160",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/courses/gfg-160-series"
+          },
+          {
+            "title": "System Design",
+            "children": [],
+            "link": "https://www.geeksforgeeks.org/system-design/system-design-tutorial/"
+          }
+        ],
+        "link": ""
+      }
+    ]
+  },
+  "canonicalUrlWithQueryParams": "https://www.geeksforgeeks.org/batch/ds-16?tab=Resources",
+  "canonicalUrlWithOutQueryParams": "https://www.geeksforgeeks.org/batch/ds-16",
+  "cdnCountryCode": "IN",
+  "lightWeightHeader": false,
+  "showNotificationHeader": true,
+  "showTranslateHeader": true,
+  "showSearchHeader": true,
+  "saleBannerDetails": {
+    "redirectionUrl": "https://www.geeksforgeeks.org/courses?utm_campaign=yearend2025&utm_medium=pop_up&utm_source=gfg",
+    "bannerUrl": "https://media.geeksforgeeks.org/auth-dashboard-uploads/500x700%20WEB%20AD.gif",
+    "timerTime": "2025-12-25T23:59:59+05:30",
+    "showTimer": true,
+    "cookieExpiry": 6,
+    "modalPopupTime": 8000,
+    "timerText": "Sale Ends In",
+    "featureStartTime": "2025-12-24T00:00:00+05:30"
+  },
+  "initialState": {
+    "user": {
+      "userVal": "",
+      "userError": false,
+      "responsemsg": "",
+      "responsetype": "error",
+      "recaptchaError": false,
+      "recaptchaValue": "",
+      "loading": false,
+      "recpatchSiteKey": "6LexF0sUAAAAADiQjz9BMiSrqplrItl-tWYDSfWa",
+      "userData": null,
+      "rememberMe": true,
+      "theme": "light",
+      "gfgLogo": "https://media.geeksforgeeks.org/gfg-gg-logo.svg"
+    },
+    "myCoursesApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "myCoursesApi"
+      }
+    },
+    "usersApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "usersApi"
+      }
+    },
+    "jobsApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "jobsApi"
+      }
+    },
+    "eventsApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "eventsApi"
+      }
+    },
+    "listingPageApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "listingPageApi"
+      }
+    },
+    "explorePageApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "explorePageApi"
+      }
+    },
+    "coursesDashboardAPI": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "coursesDashboardAPI"
+      }
+    },
+    "contestApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "contestApi"
+      }
+    },
+    "registrationCntApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "registrationCntApi"
+      }
+    },
+    "recurringEventApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "recurringEventApi"
+      }
+    },
+    "problemApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "problemApi"
+      }
+    },
+    "batchApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "batchApi"
+      }
+    },
+    "trackApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "trackApi"
+      }
+    },
+    "ideApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "ideApi"
+      }
+    },
+    "generalApi": {
+      "queries": {
+        "getAuthHeaderData({\"params\":null})": {
+          "status": "fulfilled",
+          "endpointName": "getAuthHeaderData",
+          "requestId": "pK-A262thsOP2LrYcbfbm",
+          "originalArgs": {
+            "params": null
+          },
+          "startedTimeStamp": 1773764175374,
+          "data": [
+            {
+              "title": "Courses",
+              "children": [
+                {
+                  "title": "DSA / Placements",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/courses/category/dsa-placements"
+                },
+                {
+                  "title": "GATE Prep",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/courses/category/gate/"
+                },
+                {
+                  "title": "Data Analytics / Data Science",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/courses/category/data-analytics-data-science"
+                },
+                {
+                  "title": "Development",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/courses/category/development-testing"
+                },
+                {
+                  "title": "Cloud / DevOps",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/courses/category/cloud-devops"
+                },
+                {
+                  "title": "Programming Languages",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/courses/category/programming-languages"
+                },
+                {
+                  "title": "All Courses",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/courses"
+                }
+              ],
+              "link": "https://practice.geeksforgeeks.org/courses/?ref=ghm"
+            },
+            {
+              "title": "Tutorials",
+              "children": [
+                {
+                  "title": "Python",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/python/python-programming-language-tutorial/"
+                },
+                {
+                  "title": "Java",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/java/java/"
+                },
+                {
+                  "title": "DSA",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/"
+                },
+                {
+                  "title": "ML & Data Science",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/ai-ml-and-data-science-tutorial-learn-ai-ml-and-data-science/"
+                },
+                {
+                  "title": "Interview Corner",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/interview-corner/"
+                },
+                {
+                  "title": "Programming Languages",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/programming-language-tutorials/"
+                },
+                {
+                  "title": "Web Development",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/web-technology/"
+                },
+                {
+                  "title": "GATE",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/gate-exam-tutorial/"
+                },
+                {
+                  "title": "CS Subjects",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/articles-on-computer-science-subjects-gq/"
+                },
+                {
+                  "title": "DevOps",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/devops/devops-tutorial/"
+                },
+                {
+                  "title": "School Learning",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/geeksforgeeks-school/"
+                },
+                {
+                  "title": "Software and Tools",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/websites-apps/software-and-tools-a-to-z-list/"
+                }
+              ],
+              "link": ""
+            },
+            {
+              "title": "Practice",
+              "children": [
+                {
+                  "title": "Practice Coding Problems",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/geeksforgeeks-practice-best-online-coding-platform/"
+                },
+                {
+                  "title": "Problem of the Day",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/problem-of-the-day"
+                },
+                {
+                  "title": "Explore Connect",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/connect/home"
+                },
+                {
+                  "title": "StudyIn Scholarship 2026",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/studyin-go-global-challenge-2025"
+                }
+              ],
+              "link": ""
+            },
+            {
+              "title": "Jobs",
+              "children": [
+                {
+                  "title": "Apply Now!",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/jobs"
+                },
+                {
+                  "title": "Post Jobs",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/gfg-hiring-solutions-for-recruiters/"
+                },
+                {
+                  "title": "Jobs Updates",
+                  "children": [],
+                  "link": "https://www.geeksforgeeks.org/community/profile/hire1/"
+                }
+              ],
+              "link": "https://www.geeksforgeeks.org/jobs?utm_source=gfg&utm_medium=gfg_header&utm_campaign=gfgcontest_header"
+            }
+          ],
+          "fulfilledTimeStamp": 1773764175384
+        },
+        "getAuthFooterData({\"params\":null})": {
+          "status": "fulfilled",
+          "endpointName": "getAuthFooterData",
+          "requestId": "7pT4Wb9jPbe8ogiV-5Rr3",
+          "originalArgs": {
+            "params": null
+          },
+          "startedTimeStamp": 1773764175376,
+          "data": {
+            "email": "feedback@geeksforgeeks.org",
+            "address": "A-143, 7th Floor, Sovereign Corporate Tower, Sector- 136, Noida, Uttar Pradesh (201305)",
+            "registered_address": "K 061, Tower K, Gulshan Vivante Apartment, Sector 137, Noida, Gautam Buddh Nagar, Uttar Pradesh, 201305",
+            "footer": [
+              {
+                "title": "Company",
+                "children": [
+                  {
+                    "title": "About Us",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/about/"
+                  },
+                  {
+                    "title": "Legal",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/legal/"
+                  },
+                  {
+                    "title": "Privacy Policy",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/legal/privacy-policy/"
+                  },
+                  {
+                    "title": "Careers",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/jobs?search=geeksforgeeks&tab_type=featured"
+                  },
+                  {
+                    "title": "Contact Us",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/about/contact-us/"
+                  },
+                  {
+                    "title": "Corporate Solution",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/gfg-corporate-solution/"
+                  },
+                  {
+                    "title": "Campus Training Program",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/campus-training-program/"
+                  }
+                ],
+                "link": ""
+              },
+              {
+                "title": "Explore",
+                "children": [
+                  {
+                    "title": "POTD",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/problem-of-the-day"
+                  },
+                  {
+                    "title": "Practice Problems",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions"
+                  },
+                  {
+                    "title": "Connect",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/connect/home"
+                  },
+                  {
+                    "title": "Blogs",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/category/blogs/?type=recent"
+                  },
+                  {
+                    "title": "Upskill Courses",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses"
+                  }
+                ],
+                "link": ""
+              },
+              {
+                "title": "Tutorials",
+                "children": [
+                  {
+                    "title": "Programming Languages",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/computer-science-fundamentals/programming-language-tutorials/"
+                  },
+                  {
+                    "title": "DSA",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/"
+                  },
+                  {
+                    "title": "Web Technology",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/web-tech/web-technology/"
+                  },
+                  {
+                    "title": "AI, ML & Data Science",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/machine-learning/ai-ml-and-data-science-tutorial-learn-ai-ml-and-data-science/"
+                  },
+                  {
+                    "title": "DevOps",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/devops/devops-tutorial/"
+                  },
+                  {
+                    "title": "CS Core Subjects",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/gate/gate-exam-tutorial/"
+                  },
+                  {
+                    "title": "GATE",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/gate/gate-exam-tutorial/"
+                  },
+                  {
+                    "title": "School Subjects",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/gfg-academy/geeksforgeeks-school/"
+                  },
+                  {
+                    "title": "Software and Tools",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/websites-apps/software-and-tools-a-to-z-list/"
+                  }
+                ],
+                "link": ""
+              },
+              {
+                "title": "Courses",
+                "children": [
+                  {
+                    "title": "ML and Data Science",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/category/machine-learning-data-science"
+                  },
+                  {
+                    "title": "DSA and Placements",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/category/dsa-placements"
+                  },
+                  {
+                    "title": "Web Development",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/category/development-testing"
+                  },
+                  {
+                    "title": "Data Science",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/category/machine-learning-data-science"
+                  },
+                  {
+                    "title": "Programming Languages",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/category/programming-languages"
+                  },
+                  {
+                    "title": "DevOps & Cloud",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/category/cloud-devops"
+                  },
+                  {
+                    "title": "GATE",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/category/gate"
+                  },
+                  {
+                    "title": "Trending Technologies",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/category/trending-technologies/"
+                  }
+                ],
+                "link": ""
+              },
+              {
+                "title": "Offline Centers",
+                "children": [
+                  {
+                    "title": "Noida",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/offline-courses?city=noida"
+                  },
+                  {
+                    "title": "Bengaluru",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/offline-courses?city=bengaluru"
+                  },
+                  {
+                    "title": "Pune",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/offline-courses?city=pune"
+                  },
+                  {
+                    "title": "Hyderabad",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/offline-courses?city=hyderabad"
+                  },
+                  {
+                    "title": "Kolkata",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/offline-courses?selectedOfflineCity=Kolkata"
+                  }
+                ],
+                "link": ""
+              },
+              {
+                "title": "Preparation Corner",
+                "children": [
+                  {
+                    "title": "Interview Corner",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/interview-prep/interview-corner/"
+                  },
+                  {
+                    "title": "Aptitude",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/aptitude/aptitude-questions-and-answers/"
+                  },
+                  {
+                    "title": "Puzzles",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/aptitude/puzzles/"
+                  },
+                  {
+                    "title": "GfG 160",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/courses/gfg-160-series"
+                  },
+                  {
+                    "title": "System Design",
+                    "children": [],
+                    "link": "https://www.geeksforgeeks.org/system-design/system-design-tutorial/"
+                  }
+                ],
+                "link": ""
+              }
+            ]
+          },
+          "fulfilledTimeStamp": 1773764175385
+        }
+      },
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {
+        "getAuthHeaderData({\"params\":null})": {
+          "pK-A262thsOP2LrYcbfbm": {}
+        },
+        "getAuthFooterData({\"params\":null})": {
+          "7pT4Wb9jPbe8ogiV-5Rr3": {}
+        }
+      },
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "generalApi"
+      }
+    },
+    "allFeedbacksApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "allFeedbacksApi"
+      }
+    },
+    "dashboardBaseApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "dashboardBaseApi"
+      }
+    },
+    "addEditCourseFeaturesApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "addEditCourseFeaturesApi"
+      }
+    },
+    "filtersApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "filtersApi"
+      }
+    },
+    "paymentTransactionHistoryApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "paymentTransactionHistoryApi"
+      }
+    },
+    "classAllApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "classAllApi"
+      }
+    },
+    "sidebarApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "sidebarApi"
+      }
+    },
+    "addEditJobsApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "addEditJobsApi"
+      }
+    },
+    "addEditProblemApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "addEditProblemApi"
+      }
+    },
+    "hackathonApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "hackathonApi"
+      }
+    },
+    "hackathonNewApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "hackathonNewApi"
+      }
+    },
+    "problemData": {
+      "isProblemPublic": false,
+      "problemUserScore": 0,
+      "problemAttempted": {
+        "solvedProblemId": null,
+        "status": -1
+      },
+      "problemUserScoreUpdated": false,
+      "probResource": null,
+      "problemBatchSlug": null,
+      "problemTrackSlug": null,
+      "hasViewedSubmission": false,
+      "allData": {
+        "probData": {},
+        "metaData": {}
+      },
+      "isProblemDemo": false,
+      "hasMovedToEditor": false,
+      "nextProblemData": null,
+      "nextProblemClickId": "",
+      "userEntityId": "",
+      "yogiBotPremiumTourType": null,
+      "isMtcEnabled": false,
+      "isSampleInputModified": false,
+      "isSeparateInputAvailable": false,
+      "totalResultApiCallCount": 0
+    },
+    "allUserSprint": {
+      "sprintData": []
+    },
+    "generalData": {
+      "tinyMceScriptLoaded": null
+    },
+    "batchTrackData": {
+      "batchId": null,
+      "trackId": null,
+      "userBatchScore": 0,
+      "userBatchScoreUpdated": false,
+      "userBatchProgress": -1,
+      "userSubmittedProblemIds": [],
+      "userTrackProgress": {},
+      "userVideosData": {},
+      "liveClassesVideosData": {},
+      "courseSlug": "",
+      "courseFeeType": "",
+      "isBatchAccessPermissionApiExecuted": false,
+      "userPaidAccess": false,
+      "isBatchRated": null,
+      "notesDetails": {
+        "notes_list": [],
+        "last_evaluated_key": null
+      },
+      "entityNotesIdDetails": {},
+      "enableAddNotesButton": false,
+      "isNotesModalOpen": false,
+      "isBatchModerationOn": false,
+      "isWindowShrinkMonitorOn": false,
+      "isKnownExtensionDetectionOn": false,
+      "canEditBatchTrack": false,
+      "isProblemComponentMounted": false,
+      "courseDefaultLang": null,
+      "chaptersData": null,
+      "trackNavigation": null,
+      "isDemoUser": false
+    },
+    "rewardAPI": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "rewardAPI"
+      }
+    },
+    "contestData": {
+      "isContestEndedForUser": null,
+      "isContestEnded": true,
+      "fixedContestLiveButUserEnded": false,
+      "someErrorOccured": false,
+      "quizStatusCount": {},
+      "problemsStatusCount": {},
+      "showFinishTestModal": false,
+      "disableCopyPaste": false,
+      "isProctoredTerminated": false,
+      "proctoredContest": false,
+      "isWindowShrinkMonitorOn": false,
+      "isKnownExtensionDetectionOn": false,
+      "showFeedbackTestModal": false,
+      "isAutoEnd": false,
+      "showCalculator": false,
+      "quiz": {
+        "showQuizAnswers": false,
+        "activeIndex": {
+          "question": 0,
+          "section": 0
+        },
+        "userResponses": null,
+        "revealButtonText": "Check Submission",
+        "displayCorrectAnswer": false,
+        "submitButtonText": null,
+        "submissionsStatus": null
+      },
+      "problems": {
+        "submissionType": "mySubmissions",
+        "submissions": null,
+        "openedProblemId": null,
+        "userCodingResponse": {}
+      },
+      "leaderboard": {
+        "currentPage": 1,
+        "leaderboardType": "current"
+      }
+    },
+    "couponData": {
+      "activeTab": "General Settings",
+      "formValues": {
+        "General Settings": {
+          "coupon_code": "",
+          "coupon_id": "",
+          "valid_till": null,
+          "valid_from": null,
+          "usage_details": null,
+          "coupon_type": null,
+          "discount_details": {
+            "up_to": -1
+          },
+          "coupon_desc": null,
+          "coupon_college_domain": null
+        },
+        "Discount Rules": {
+          "customer_rules": {},
+          "purchase_rules": {},
+          "product_rules": {}
+        },
+        "Assign Publish": {
+          "created_type": null,
+          "publish_status": null,
+          "assignee_commission": null,
+          "created_by_team": null,
+          "assign_to": null,
+          "assignee_type": null,
+          "purpose_created": null
+        },
+        "Create Copies": {
+          "copy_count": 0
+        },
+        "Influencer details": {
+          "user_name": "",
+          "email": "",
+          "contact_number": null,
+          "onboarding": null,
+          "subject": "",
+          "email_body": ""
+        }
+      },
+      "selectedEntities": {
+        "entitled_cust": [],
+        "entitled_prod": [],
+        "prerequisite_prod": []
+      }
+    },
+    "problemOfTheDayAPI": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "problemOfTheDayAPI"
+      }
+    },
+    "addEditCourseData": {
+      "activeTab": "Course Intro",
+      "activeTabIndex": 0,
+      "formValues": {
+        "courseIntro": {
+          "course_name": "",
+          "course_short_name": "",
+          "course_slug": "",
+          "short_description": "",
+          "course_highlights": "",
+          "course_for_kids": 0,
+          "course_type": 1,
+          "listing_type": 0,
+          "course_fee_type": 1,
+          "auto_registration": 0,
+          "course_default_lang": null,
+          "best_suited_for": "",
+          "default_testimonial": {
+            "name": "",
+            "achievements": "",
+            "content": ""
+          },
+          "course_publish_date": null,
+          "expiry_date": null,
+          "redirection_url": null,
+          "has_doubt_assistance": 1,
+          "free_doubt_support_expiry_date": 6,
+          "doubt_support_expiry_date": 6,
+          "course_image_text": "",
+          "show_kapture_chat_box": 0,
+          "show_placement_assistance_banner": 0,
+          "doubt_assistance_price": 1499,
+          "what_you_will_learn": "",
+          "course_email_content": "",
+          "intro_video_link": "",
+          "broucher_link": "",
+          "warning_message": "",
+          "show_mentor_rating": 0,
+          "linked_offline_course": null,
+          "level": null,
+          "seats_left": null,
+          "course_duration": null,
+          "urgency_start_time": null,
+          "urgency_end_time": null,
+          "doubt_assistance_banner": 0,
+          "syllabus_pdf": 0,
+          "email_content_redirection_link": "",
+          "course_redirection_slug": "",
+          "payment_deep_link": "",
+          "course_expiry_days": 365,
+          "show_all_live_classes": false,
+          "skills": [],
+          "is_payment_qrcode_generated": 0,
+          "live_classes_batches": [],
+          "has_scheduler": false,
+          "scheduler_batches": [],
+          "notes_batches": [],
+          "show_notes_tab": false
+        },
+        "courseBanners": [
+          {
+            "title": "Old Thumbnail Banner",
+            "banner_type": "thumbnail-old",
+            "banner_key": "thumbnail_old",
+            "image_url": "thumbnail_old_image_url",
+            "exists": false,
+            "file": null
+          },
+          {
+            "title": "Facebook Banner",
+            "banner_type": "social",
+            "banner_key": "social",
+            "image_url": "social_image_url",
+            "exists": false,
+            "file": null
+          },
+          {
+            "title": "Mobile Banner",
+            "banner_type": "mobile",
+            "banner_key": "mobile",
+            "image_url": "mobile_image_url",
+            "exists": false,
+            "file": null
+          },
+          {
+            "title": "Thumbnail Banner",
+            "banner_type": "thumbnail",
+            "banner_key": "thumbnail",
+            "image_url": "thumbnail_image_url",
+            "exists": false,
+            "file": null
+          },
+          {
+            "title": "Payment Checkout Image",
+            "banner_type": "payment-checkout-image",
+            "banner_key": "payment_checkout_image",
+            "image_url": "payment_checkout_image_image_url",
+            "exists": false,
+            "file": null
+          },
+          {
+            "title": "Course Video Thumbnail Image",
+            "banner_type": "course-video-thumbnail-image",
+            "banner_key": "course_video_thumbnail_image",
+            "image_url": "course_video_thumbnail_image_image_url",
+            "exists": false,
+            "file": null
+          },
+          {
+            "title": "Course Overview Image",
+            "banner_type": "course-overview-image",
+            "banner_key": "course_overview_image",
+            "image_url": "course_overview_image_image_url",
+            "exists": false,
+            "file": null
+          },
+          {
+            "title": "What will you learn image",
+            "banner_type": "course-what-will-you-learn",
+            "banner_key": "course_what_will_you_learn",
+            "image_url": "course_what_will_you_learn_image_url",
+            "exists": false,
+            "file": null
+          }
+        ],
+        "upgradableCourses": [],
+        "electiveCourses": [],
+        "courseBenefits": [],
+        "courseContent": [],
+        "faqs": [],
+        "courseFaqs": [],
+        "schemaKeywords": [],
+        "emailContent": [],
+        "optLanguages": [],
+        "courseJourneyPhases": []
+      },
+      "isEdit": false,
+      "errorObj": null,
+      "showConfirmationModal": false,
+      "deleteContext": null
+    },
+    "jobPortalData": {
+      "activeTab": "dashboard",
+      "jobDetails": {
+        "organization": {
+          "name": "",
+          "website": "",
+          "logo": "",
+          "about": ""
+        },
+        "designation": {
+          "text": "",
+          "id": ""
+        },
+        "location_type": "",
+        "location": [],
+        "employment_type": "",
+        "description": "",
+        "salary": {
+          "min": "",
+          "max": "",
+          "salary_type": 2
+        },
+        "experience": {
+          "min": "",
+          "max": ""
+        },
+        "last_apply_date": "",
+        "publish_date": "",
+        "skill_sets": []
+      },
+      "activeModal": {
+        "type": null,
+        "data": {}
+      },
+      "productDetails": {},
+      "hasSignedLegalContract": null
+    },
+    "jobPortalApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "jobPortalApi"
+      }
+    },
+    "collegeAdminData": {
+      "canAccessPage": null
+    },
+    "geekOlympics": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "geekOlympics"
+      }
+    },
+    "summerTrainingEvent": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "summerTrainingEvent"
+      }
+    },
+    "dsaToDevelopmentApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "dsaToDevelopmentApi"
+      }
+    },
+    "dsaToDevelopmentData": {
+      "hasRegistered": null,
+      "currentQuestion": null,
+      "hasCompletedSurvey": null,
+      "hasAttemptedSurvey": null,
+      "batchId": null,
+      "applicationStatus": null,
+      "submittedLastQuestion": false,
+      "isIndianUser": null
+    },
+    "organizationDashboardApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "organizationDashboardApi"
+      }
+    },
+    "organizationDashboardData": {
+      "organizationName": null,
+      "organizationSlug": null,
+      "organizationType": null,
+      "organizationId": null,
+      "currentDate": null,
+      "routeSpecificErrors": {
+        "my-courses": null,
+        "course-management": null,
+        "student-repository": null,
+        "aggregated-report": null
+      },
+      "pageError": null
+    },
+    "hierarchyFilter": {
+      "activeFilters": null
+    },
+    "userInfo": {
+      "userCountry": "IN",
+      "mobileDevice": false,
+      "currentDateTime": "2026-03-17T16:16:15.355Z"
+    },
+    "myCoursesData": {
+      "is_user_organization_deal": false
+    },
+    "aggregatedReportData": {
+      "page": 1,
+      "batches": null,
+      "contests": null,
+      "institutes": [],
+      "degrees": [],
+      "branches": [],
+      "sections": [],
+      "search": "",
+      "sortBy": "-avg_score",
+      "batchesOptions": [],
+      "contestOptions": [],
+      "batchContestOptionsMap": {},
+      "institutesOptions": null,
+      "degreesOptions": null,
+      "instituteMapping": {},
+      "topperOptions": [],
+      "sectionOptions": null,
+      "branchOptions": null,
+      "universityDetailsState": {
+        "status": "idle",
+        "error": null
+      },
+      "clickedOnRedirection": false
+    },
+    "leaderboardApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "leaderboardApi"
+      }
+    },
+    "premiumApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "premiumApi"
+      }
+    },
+    "termsOfServiceApi": {
+      "queries": {},
+      "mutations": {},
+      "provided": {},
+      "subscriptions": {},
+      "config": {
+        "online": true,
+        "focused": true,
+        "middlewareRegistered": true,
+        "refetchOnFocus": false,
+        "refetchOnReconnect": false,
+        "refetchOnMountOrArgChange": false,
+        "keepUnusedDataFor": 60,
+        "reducerPath": "termsOfServiceApi"
+      }
+    }
+  }
+}

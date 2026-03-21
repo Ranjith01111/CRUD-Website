@@ -1,0 +1,53 @@
+# Project Report: SwiftTicket
+
+## 1. Project Overview
+**SwiftTicket** is a modern, full-stack web application designed for seamless event and movie ticket booking. The platform provides a rich, interactive user interface for discovering local events in Coimbatore, booking tickets with real-time seat availability, managing active passes, and generating printable/shareable E-Tickets.
+
+## 2. Technology Stack
+The application is built using a modern, scalable technology stack:
+- **Frontend Framework:** React 18, TypeScript, Vite
+- **Styling:** Tailwind CSS 4, Lucide React (Icons)
+- **Animations:** Motion (Framer Motion)
+- **Backend & Database:** Firebase (Authentication, Firestore Database)
+- **Deployment & Hosting:** Capable of being deployed via Firebase Hosting, Vercel, or Netlify
+
+## 3. Core Capabilities and Features
+The platform offers a comprehensive suite of features:
+
+### User Authentication
+- Secure "Sign In with Google" integration seamlessly powered by Firebase Authentication.
+- Persistent user sessions and protected dashboard routes.
+
+### Dynamic Dashboard
+- **Events Browsing:** Users can view featured events, concerts, and movie screenings.
+- **Local Theater Integration:** A dedicated section to search and book tickets dynamically at popular local theaters (e.g., INOX, KG Cinemas, Prozone).
+- **Seat Selection Engine:** Interactive seat mapping (VIP vs. Regular pricing) simulating real-time capacity and limits.
+
+### E-Ticket Management
+- **Centralized Ticket Vault:** All purchased tickets are stored securely in Firestore and tied strictly to the authenticated user's ID.
+- **E-Pass Generation:** Users can click "View Pass" to generate a stunning, printable digital ticket.
+- **Save & Share:** E-Tickets leverage the browser's native `window.print()` isolated specifically for PDF generation, along with Web Share API capabilities for mobile sharing.
+- **Cancellation:** Users can cancel active tickets, which instantly updates the Firestore database in real-time.
+
+### Integrated Support Assistant
+- A built-in, animated ChatBot providing instant, automated FAQs regarding ticket booking, cancellation policies, theater locations, and pricing using smart keyword matching.
+
+## 4. Architecture & Security
+- **Firestore Security Rules:** Rules are configured so that users can only read, create, and delete ticket documents that contain their own unique `userId`. This ensures complete data privacy between accounts.
+- **Environment Variables:** API keys and sensitive routing configurations are securely managed via `.env` files and completely isolated from source control.
+- **Component Design:** The UI strictly adheres to Component-Driven Development, preventing bloated files and allowing logic to be completely reusable.
+
+## 5. Development Setup Instructions
+To run the project locally, execute the following commands in sequence:
+```bash
+# 1. Install all dependencies
+npm install
+
+# 2. Configure Environment variables
+# Copy .env.example to .env.local and populate the required API keys.
+
+# 3. Start the local development server
+npm run dev
+```
+
+*Report generated automatically for the SwiftTicket repository.*
